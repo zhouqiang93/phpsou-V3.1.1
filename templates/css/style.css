@@ -1,0 +1,124 @@
+body {
+    background: #fff;
+    color: #000;
+    font-family: Arial, sans-serif;
+    font-size: small;
+	font-size:13px;
+	background:url(../images/skin.gif);
+}
+
+body, form, ol, ul, li, dl, dd, dt, p, h1, h2, h3, h4 {
+    margin: 0;
+    padding: 0;
+}
+ul, li, dl, dd, dt {
+    list-style: none;
+}
+a {
+	text-decoration:none;
+	color:#0000DA;
+	font-family:"ËÎÌו";
+}
+A:active {
+	text-decoration:none;
+	color:#0000DA;
+}
+a.hover { color:#0000DA;}
+.head {}
+.head_1 {float:left;}
+.head_2 {float:right;}
+.logo {
+	text-align:center;
+	margin-top:90px;
+}
+.main {
+	text-align:center;
+
+}
+.main .main_li {
+	margin:auto;
+	width:500px;
+}
+.main .main_li li {
+	float:left;
+	font-size:14px;
+	width:50px;
+	text-align:center;
+	height:30px;
+	line-height:30px;
+}
+.main .main_li li a{
+	text-decoration:underline;
+}
+.main .main_li li A:active {
+	text-decoration:underline;
+}
+.search {
+	text-align:center;
+	height:170px;
+	_height:120px;
+	*height:120px;
+}
+.search .input {
+	height:120px;
+}
+.search .input li {
+	height:70px;
+	_height:40px;
+	*height:40px;
+}
+.search .input .s {
+	height:30px;
+	width:90px;
+	font-size:14px;
+
+}
+.wd {
+	BORDER-RIGHT: #9B9B9B 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: #C9C9C9 1px solid; PADDING-LEFT: 4px; FONT-SIZE: 16px; BACKGROUND: #fff; PADDING-BOTTOM: 0px; BORDER-LEFT: #C9C9C9 2px solid; WIDTH: 505px; PADDING-TOP: 4px; BORDER-BOTTOM: #9B9B9B 1px solid; FONT-FAMILY: Verdana; HEIGHT: 27px; line-height:23px;
+}
+#su {
+border-bottom:#999999 1px solid; border-right:#999999 1px solid; border-left:#CDCBCC 1px solid; border-top:#CDCBCC 1px solid; WIDTH: 105px; LINE-HEIGHT: 28px; HEIGHT: 35px ;MARGIN: 10px 10px 0px 0px; background-image:url(../images/1.jpg);
+}
+.ad {
+	text-align:center;
+}
+.ad span {
+	color:#FF0000;
+}
+.foot {
+	text-align:center;
+	height:130px;
+	font-size:12px;
+}
+.foot .foot_1 {
+	height:60px;
+	line-height:60px;
+	clear:both;
+}
+.foot .foot_1 a {
+	color:#666666;
+}
+.foot .foot_2 {
+	width:370px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.foot .foot_2 li {
+	float:left;
+	margin-left:5px;
+	height:25px;
+	line-height:25px;
+}
+.foot .foot_2 a {
+	color:#666666;
+}
+.foot .foot_3 {
+	height:25px;
+	line-height:25px;
+	clear:both;
+	color:#666666;
+}
+.foot .foot_3 a {
+	color:#666666;
+}
+

@@ -1,0 +1,36 @@
+#facebox {
+	Z-INDEX: 100; POSITION: absolute; TEXT-ALIGN: left; WIDTH: 100%; TOP: 0px; LEFT: 0px
+}
+#facebox .popup {
+	POSITION: relative
+}
+#facebox TABLE {
+	BACKGROUND-COLOR: #8c8c8c; MARGIN: auto; BORDER-COLLAPSE: collapse
+}
+#facebox .body {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; WIDTH: 570px; PADDING-RIGHT: 10px; BACKGROUND: #fff; PADDING-TOP: 10px
+}
+#facebox .loading {
+	TEXT-ALIGN: center
+}
+#facebox .image {
+	TEXT-ALIGN: center
+}
+#facebox IMG {
+	BORDER-RIGHT-WIDTH: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px
+}
+#facebox .footer {
+	TEXT-ALIGN: right; MARGIN-TOP: 10px; BORDER-TOP: #dddddd 1px solid; PADDING-TOP: 5px
+}
+#facebox .tl {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 10px; PADDING-RIGHT: 0px; HEIGHT: 10px; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+#facebox .tr {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 10px; PADDING-RIGHT: 0px; HEIGHT: 10px; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+#facebox .bl {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 10px; PADDING-RIGHT: 0px; HEIGHT: 10px; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+#facebox .br {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 10px; PADDING-RIGHT: 0px; HEIGHT: 10px; OVERFLOW: hidden; PADDING-TOP: 0px
+}

@@ -1,0 +1,2 @@
+<META http-equiv=Content-Type content=text/html;charset=utf-8>
+<IFRAME align=middle marginWidth=0 vspace=-0 marginHeight=0 src="spider/site.php" frameBorder=no width=600 scrolling=auto height=300></IFRAME>  

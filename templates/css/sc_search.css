@@ -1,0 +1,161 @@
+body {
+    background: #fff;
+    color: #000;
+    font-family: Arial, sans-serif;
+    font-size: small;
+	font-size:12px;
+	background:url(../images/skin.gif);
+
+}
+
+body, form, ol, ul, li, dl, dd, dt, p, h1, h2, h3, h4 {
+    margin: 0;
+    padding: 0;
+}
+img {border:0px;}
+ul, li, dl, dd, dt {
+    list-style: none;
+}
+a {
+	text-decoration:none;
+	color:#0600CA;
+}
+A:active {
+	text-decoration:none;
+}
+.top { height:5px;}
+.head {
+	margin-left:0px auto;
+	width:770px;
+}
+.logo {
+	width:220px;
+	float:left;
+	padding:5px 0px 5px 5px;
+}
+.logo img {
+	width:220px;
+}
+.logo_1 {
+	float:right;
+	width:530px;
+	height:88px;
+	padding:5px 0px 5px 0px;
+}
+.word {float:left;padding:18px 0px 5px 0px;}
+.sou {float:right;padding:18px 0px 5px 0px;}
+.wd {
+	BORDER-RIGHT: #9B9B9B 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: #C9C9C9 1px solid; PADDING-LEFT: 4px; FONT-SIZE: 16px; BACKGROUND: #fff; PADDING-BOTTOM: 0px; BORDER-LEFT: #C9C9C9 2px solid; WIDTH: 405px; PADDING-TOP: 4px; BORDER-BOTTOM: #9B9B9B 1px solid; FONT-FAMILY: Verdana; HEIGHT: 27px; line-height:23px;
+}
+#su {
+border-bottom:#999999 1px solid; border-right:#999999 1px solid; border-left:#CDCBCC 1px solid; border-top:#CDCBCC 1px solid; WIDTH: 95px; LINE-HEIGHT: 28px; HEIGHT: 33px ;MARGIN: 0px 10px 0px 0px; background-image:url(../images/1.jpg);
+}
+
+.main {
+	width:950px;
+}
+.main_left {
+	float:left;
+	width:640px;
+	margin-left:10px;
+}
+.content {
+	width:120px;
+	margin-bottom:10px;
+	float:left;
+}
+.main_content a h1 {
+	font-size:16px;
+	font-weight:200;
+	text-decoration:underline;
+}
+.main_img {
+	float:left;
+}
+.main_img img {
+	width:110px;
+	height:120px;
+	padding:2px;
+	margin-right:10px;
+	border:1px solid #CCC;
+}
+.main_content {
+	width:630px;
+	*width:530px;
+	_width:530px;
+
+}
+.main_right {
+	float:right;
+	width:240px;
+	border-left:1px solid #CCC;
+	padding-left:10px;
+}
+
+#page {
+	MARGIN-TOP: 18px; MARGIN-BOTTOM: 28px; WHITE-SPACE: nowrap; HEIGHT: 26px
+}
+#page .pg {
+	FONT-SIZE: 14px;
+	TEXT-ALIGN: left;
+	padding-left: 10px;
+}
+#page .pg A {
+	BORDER-RIGHT: #b2d0ea 1px solid; PADDING-RIGHT: 8px; BORDER-TOP: #b2d0ea 1px solid; DISPLAY: inline; PADDING-LEFT: 8px; BACKGROUND: #fff; PADDING-BOTTOM: 1px; MARGIN: 0px 1px 0px 0px; BORDER-LEFT: #b2d0ea 1px solid; COLOR: #03c; PADDING-TOP: 3px; BORDER-BOTTOM: #b2d0ea 1px solid; ZOOM: 1; FONT-FAMILY: 'Tahoma'; TEXT-DECORATION: none
+}
+#page .pg A:link {
+	BORDER-RIGHT: #b2d0ea 1px solid; PADDING-RIGHT: 8px; BORDER-TOP: #b2d0ea 1px solid; DISPLAY: inline; PADDING-LEFT: 8px; BACKGROUND: #fff; PADDING-BOTTOM: 1px; MARGIN: 0px 1px 0px 0px; BORDER-LEFT: #b2d0ea 1px solid; COLOR: #03c; PADDING-TOP: 3px; BORDER-BOTTOM: #b2d0ea 1px solid; ZOOM: 1; FONT-FAMILY: 'Tahoma'; TEXT-DECORATION: none
+}
+#page .pg A:visited {
+	BORDER-RIGHT: #b2d0ea 1px solid; PADDING-RIGHT: 8px; BORDER-TOP: #b2d0ea 1px solid; DISPLAY: inline; PADDING-LEFT: 8px; BACKGROUND: #fff; PADDING-BOTTOM: 1px; MARGIN: 0px 1px 0px 0px; BORDER-LEFT: #b2d0ea 1px solid; COLOR: #03c; PADDING-TOP: 3px; BORDER-BOTTOM: #b2d0ea 1px solid; ZOOM: 1; FONT-FAMILY: 'Tahoma'; TEXT-DECORATION: none
+}
+#page .pg A:hover {
+	BORDER-RIGHT: #2b55af 1px solid; BORDER-TOP: #2b55af 1px solid; BACKGROUND: #3666d4; BORDER-LEFT: #2b55af 1px solid; COLOR: #fff; BORDER-BOTTOM: #2b55af 1px solid
+}
+#page .pg SPAN.current {
+	BORDER-RIGHT: #fff 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: #fff 1px solid; DISPLAY: inline; PADDING-LEFT: 3px; FONT-WEIGHT: bold; PADDING-BOTTOM: 3px; MARGIN: 0px 5px; BORDER-LEFT: #fff 1px solid; PADDING-TOP: 5px; BORDER-BOTTOM: #fff 1px solid; ZOOM: 1; FONT-FAMILY: 'Tahoma'
+}
+#page .pg SPAN.extend {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 0px; PADDING-BOTTOM: 8px; PADDING-TOP: 0px; ZOOM: 1
+}
+#page .pg A.pre {
+	MARGIN: 0px 5px 0px 0px
+}
+#page .pg A.next {
+	MARGIN: 0px
+}
+
+.xiangguan {
+	height:40px;
+	background:#F1F9FC;
+	padding:20px;
+	
+}
+.xiangguan_left {
+	margin-left:5px;
+	font-size:16px;
+	font-weight:700;
+	float:left;
+}
+.xiangguan_right a {
+	font-size:14px;
+	text-decoration:underline;
+}
+.xiangguan_right span {
+	margin-right:20px;
+}
+.foot_1 {
+	width:530px;
+	margin:10px 0px 20px 10px;
+}
+.foot {
+	clear:both;
+	text-align:center;
+}
+.txt {
+	display:inline-block;
+	font-size:12px;
+	line-height:17px;
+}
+.ur { color:#666;}
+.ur a { color:#666;}
